@@ -23,6 +23,7 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 
 
 
+
 # Historia H - Hackeando el sistema 
 
 ![Ghost in the Shell-Comic de Shirow Masamune](https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/GiS.manga.cover.jpg/155px-GiS.manga.cover.jpg)
@@ -68,9 +69,12 @@ Elige uno de los temas propuestos y comienza a desarrollar tu propia historia...
 ![neolenguas](https://www.fairobserver.com/wp-content/uploads/2014/07/Cyberspace1.jpg)
 
 
+
 - *Los emoticono nacieron como apoyo al lenguaje escrito, como ayuda para interpretar algo que la lengua escrita no podía representar*
 
 
 - Neopalabras: post-verdad.. y [neologismos tecnológicos](https://jackmoreno.com/2014/10/23/100-ejemplos-de-neologismos/) 
 
 - Neo-personajes: Geek, nerd, cyborg, ... y otras cosas
+
+Hola a todos
